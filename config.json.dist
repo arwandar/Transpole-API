@@ -1,0 +1,17 @@
+{
+  "url": {
+    "lille": {
+      "from": "stop_area:OLI:SA:1239",
+      "to": "stop_area:OLI:SA:7095",
+      "count": "2"
+    },
+    "tcg":{
+      "from": "stop_area:OLI:SA:1239",
+      "to": "stop_area:OLI:SA:7123",
+      "count": "2"
+    }
+  },
+  "server": {
+    "port":
+  }
+}
